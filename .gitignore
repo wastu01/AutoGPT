@@ -173,3 +173,6 @@ pri*
 ig*
 .github_access_token
 autogpts/autogpt/.env.template
+autogpts/autogpt/.env.template
+autogpts/autogpt/.env.template
+*.template
